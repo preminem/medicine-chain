@@ -1,6 +1,6 @@
 ## Medicine Chain
 
-A sample Node.js app to demonstrate **__fabric-client__** & **__fabric-ca-client__** Node.js SDK APIs
+A Blockchain-based medicine supply chain dapp.
 
 ### Prerequisites and setup:
 
